@@ -1,0 +1,21 @@
+{
+  "api": "0.13",
+  "api_compatibility": ["14"],
+  "space": "Gold Coast TechSpace Inc.",
+  "logo": "https://raw.githubusercontent.com/gctechspace/gctechspace-logos/master/png/gcts-half.png",
+  "url": "https://gctechspace.org/",
+  "location": {
+    "address": "57A Railway St, Mudgeeraba QLD 4213, Australia",
+    "lon": -28.07861211995512, 
+    "lat":  153.36456032145182
+  },
+  "contact": {
+    "email": "manager@gctechspace.org",
+    "facebook": "https://www.facebook.com/GoldCoastTechSpace/",
+    "twitter": "@gctechspace"
+  },
+  "issue_report_channels": ["email"],
+  "state": {
+    "description": "Members nights Wednesday night 7pm"
+  }
+}
