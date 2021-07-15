@@ -16,6 +16,7 @@
   },
   "issue_report_channels": ["email"],
   "state": {
-    "description": "Members nights Wednesday night 7pm"
+    "description": "Members nights Wednesday night 7pm",
+  "open": null
   }
 }
